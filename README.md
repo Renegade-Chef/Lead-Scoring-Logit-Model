@@ -7,9 +7,9 @@ The goal was to help X Education, an online learning platform, increase its lead
 📊 About the Data:
 The dataset includes lead information from API submissions, landing pages, and organic traffic—covering demographics, behavior, and source details.
 
-🧪 Train Set: 6314 records (70%)
-🧪 Test Set: 2706 records (30%)
-⚖️ Conversion Ratio: Mildly imbalanced at 5:8 (converted vs. non-converted)
+- 🧪 Train Set: 6314 records (70%)
+- 🧪 Test Set: 2706 records (30%)
+- ⚖️ Conversion Ratio: Mildly imbalanced at 5:8 (converted vs. non-converted)
 
 🛠️ Data Cleaning & Preprocessing:
 - Categorical features: Filled missing values using mode or by grouping similar categories
@@ -26,7 +26,7 @@ The dataset includes lead information from API submissions, landing pages, and o
 - The majority of leads came via landing pages and APIs
 - Top traffic sources: Google, direct traffic, and organic search
 - Higher conversion seen among unemployed leads and those seeking career advancement
-🚧 Improvement areas identified: free e-books and Olark chat performance
+- 🚧 Improvement areas identified: free e-books and Olark chat performance
 
 🧠 Model Building:
 - Started with 34 variables, narrowed down to 9 significant predictors
