@@ -1,8 +1,7 @@
 🎯 Lead Scoring Model for X Education
 
-Objective:
-The goal was to help X Education, an online learning platform, increase its lead conversion rate from 30% to 80%.
-✅ I built a logistic regression model that assigns each lead a score from 0 to 100, enabling the sales and marketing teams to prioritize high-potential leads and boost conversion efficiency.
+✅ Objective:
+The goal was to help X Education, an online learning platform, increase its lead conversion rate from 30% to 80%. I built a logistic regression model that assigns each lead a score from 0 to 100, enabling the sales and marketing teams to prioritize high-potential leads and boost conversion efficiency.
 
 📊 About the Data:
 The dataset includes lead information from API submissions, landing pages, and organic traffic—covering demographics, behavior, and source details.
@@ -33,12 +32,12 @@ The dataset includes lead information from API submissions, landing pages, and o
 - Built using the statsmodels library
 - Optimized threshold to 0.28 for best trade-off between recall and precision
 
-🔁 Recall: 75%
-🎯 Precision: 71%
+- 🔁 Recall: 75%
+- 🎯 Precision: 71%
 
 📉 Lead Scoring System:
-Converted model outputs into a 0–100 score for each lead.
-🔝 This allows the sales team to focus efforts on high-scoring leads for better outcomes.
+- Converted model outputs into a 0–100 score for each lead.
+- 🔝 This allows the sales team to focus efforts on high-scoring leads for better outcomes.
 
 💡 Key Recommendations:
 Sales Focus: Prioritize leads scoring above 75 for maximum ROI
